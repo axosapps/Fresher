@@ -8,6 +8,10 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Approx unless otherwise defined in this Privacy Policy.
 
+### Important
+We don't force you in any way to drink alcohol. Alcohol can be dangerous!!
+We are not responsible if anything happens to you and your friends.
+
 ### Information Collection and Use
 
 We don't collect any information of the user. 
@@ -49,7 +53,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 ### Children’s Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 18. In the case I discover that a child under 18 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
 ### Changes to This Privacy Policy
 
