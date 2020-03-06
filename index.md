@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Alexandros Karapanos built the Approx app as an Ad Supported app. This SERVICE is provided by Alexandros Karapanos at no cost and is intended for use as is.
+Alexandros Karapanos built the Koupepes app as an Ad Supported app. This SERVICE is provided by Alexandros Karapanos at no cost and is intended for use as is, with an in app purchase to get 200+ cards and enjoy the app ad free.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -10,14 +10,14 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ### Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Username, Email, Game Statistics. The information that I request will be retained on your device and in the database anonymously, nothing is not collected by me in any way.
+We don't collect any information of the user. 
 
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
 
 [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-[Firebase Analytics](https://firebase.google.com/policies/analytics)
+
 
 ### Log Data
 
@@ -59,7 +59,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 ```markdown
 If you have any questions or suggestions about my Privacy Policy,
-do not hesitate to contact me at greekqts@gmail.com.
+do not hesitate to contact me at axosapps@gmail.com.
 Alexandros Karapanos
 Dimos Agiou Vasiliou 74060
 ```
